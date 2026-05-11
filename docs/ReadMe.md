@@ -61,7 +61,7 @@ pymupdf==1.23.26
 </pre>
 
 
-## 5/11/2026:
+## 5/11/2026, Added Video Capabilities:
 Added Video Flag to test unburned redactions on video (.mp4  .mov  .avi  .mkv  .wmv  .flv  .webm  .m4v)
 
 Usage: `python ./src/unredact.py --video -i <input file> -o <output file> --hits`
